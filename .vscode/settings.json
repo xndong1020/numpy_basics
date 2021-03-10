@@ -1,0 +1,6 @@
+{
+  "cSpell.words": [
+    "numpy"
+  ],
+  "python.formatting.provider": "black"
+}
